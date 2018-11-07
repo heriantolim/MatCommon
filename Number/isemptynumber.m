@@ -1,7 +1,7 @@
 function tf=isemptynumber(x)
 %% Is Input an Empty Number
 %
-% See also: isemptycell, isemptychar, isemptystruct.
+% See also: isemptycell, isemptychar.
 %
 % Copyright: Herianto Lim (http://heriantolim.com)
 % Licensing: GNU General Public License v3.0
